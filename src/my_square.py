@@ -8,6 +8,7 @@ def my_square(y):
 print(my_square(4))
 def my_square2(x)
     """ opertaor to calculate square 2
+    
     """
 return(x * x)
 print(my_square2(42))
