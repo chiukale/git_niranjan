@@ -4,6 +4,7 @@ def my_square(y):
       pearot
       using the ** operator
     """
+    """ Adding few more comments. Testing the merge on github using pull.
     return(x ** 2)
 print(my_square(4))
 def my_square2(x)
